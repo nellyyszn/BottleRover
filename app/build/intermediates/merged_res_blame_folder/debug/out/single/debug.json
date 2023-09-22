@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_24.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_24.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_27.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_27.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_20.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_20.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_16.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_16.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_splash.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/splash.json"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_35.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_35.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_3.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/xml_backup_rules.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_40.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_40.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_19.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_19.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_2.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_25.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_25.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_31.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_31.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_38.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_38.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_12.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_12.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_6.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_6.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_28.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_28.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_register.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/register.json"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_registration.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/registration.json"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_21.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_21.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_34.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_34.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_15.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_15.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_9.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_9.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_37.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_37.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_18.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_18.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_1.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_place.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/place.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_11.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_11.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_14.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_14.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_quiztest.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/quiztest.json"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_restaurant2.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/restaurant2.json"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_29.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_29.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_33.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_33.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_5.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_5.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_30.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_30.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_8.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_8.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_22.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_22.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_23.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_23.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_10.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_10.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_36.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_36.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.firebasestorage.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_7.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_7.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_17.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_17.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_delivary.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/delivary.json"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_32.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_32.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebasestorage.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_13.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_13.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_26.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_26.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_39.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_39.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_img.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/img.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/drawable_img_4.png.flat",
+        "source": "com.example.firebasestorage.app-main-59:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-57:/raw_home.json.flat",
+        "source": "com.example.firebasestorage.app-main-59:/raw/home.json"
+    }
+]

@@ -1,0 +1,59 @@
+com.example.firebasestorage.app-ui-release-0 /home/emobilis/.gradle/caches/transforms-3/003549daa6ca2e464eef4ca0b115aeae/transformed/ui-release/res
+com.example.firebasestorage.app-profileinstaller-1.3.0-1 /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/res
+com.example.firebasestorage.app-lifecycle-livedata-core-2.6.1-2 /home/emobilis/.gradle/caches/transforms-3/0f4185ec442cb321e04d88290593f083/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.firebasestorage.app-navigation-common-2.7.1-3 /home/emobilis/.gradle/caches/transforms-3/1310c7af4e71bcbd9efe3db6b3f8d3f2/transformed/navigation-common-2.7.1/res
+com.example.firebasestorage.app-annotation-experimental-1.3.0-4 /home/emobilis/.gradle/caches/transforms-3/1368433267ca02b1b653d4b2f8a1ed54/transformed/annotation-experimental-1.3.0/res
+com.example.firebasestorage.app-lifecycle-viewmodel-ktx-2.6.1-5 /home/emobilis/.gradle/caches/transforms-3/1533ffe76c3354a3802062bf89cee039/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.example.firebasestorage.app-core-runtime-2.2.0-6 /home/emobilis/.gradle/caches/transforms-3/1bb26bad28c0894a9b6537af331deb17/transformed/core-runtime-2.2.0/res
+com.example.firebasestorage.app-core-ktx-1.12.0-7 /home/emobilis/.gradle/caches/transforms-3/1c73f0e62ea6aeeb0ed44aca0e40a60e/transformed/core-ktx-1.12.0/res
+com.example.firebasestorage.app-play-services-base-18.1.0-8 /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/res
+com.example.firebasestorage.app-animation-core-release-9 /home/emobilis/.gradle/caches/transforms-3/3185b5ab01154b6067ed7ebb9aa8f01c/transformed/animation-core-release/res
+com.example.firebasestorage.app-ui-unit-release-10 /home/emobilis/.gradle/caches/transforms-3/32721612e7ba8d0a6cb77ef0fa25ff7f/transformed/ui-unit-release/res
+com.example.firebasestorage.app-lifecycle-viewmodel-compose-2.6.1-11 /home/emobilis/.gradle/caches/transforms-3/41894fbc20740d682c362fbbadefd6f3/transformed/lifecycle-viewmodel-compose-2.6.1/res
+com.example.firebasestorage.app-ui-util-release-12 /home/emobilis/.gradle/caches/transforms-3/44e802738be03bf7dfd869d50f1b94d7/transformed/ui-util-release/res
+com.example.firebasestorage.app-material-icons-core-release-13 /home/emobilis/.gradle/caches/transforms-3/45747d25a568f6d54bfe60721be92a24/transformed/material-icons-core-release/res
+com.example.firebasestorage.app-savedstate-ktx-1.2.1-14 /home/emobilis/.gradle/caches/transforms-3/49c099360210b96de2d40540d29dd909/transformed/savedstate-ktx-1.2.1/res
+com.example.firebasestorage.app-ui-tooling-preview-release-15 /home/emobilis/.gradle/caches/transforms-3/4e19e9cb9ee154ec659de22bff693290/transformed/ui-tooling-preview-release/res
+com.example.firebasestorage.app-play-services-basement-18.1.0-16 /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/res
+com.example.firebasestorage.app-firebase-common-20.3.2-17 /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/res
+com.example.firebasestorage.app-lifecycle-runtime-2.6.1-18 /home/emobilis/.gradle/caches/transforms-3/52de6b646574d6193e92126ff7761cb3/transformed/lifecycle-runtime-2.6.1/res
+com.example.firebasestorage.app-activity-1.7.2-19 /home/emobilis/.gradle/caches/transforms-3/54c80a60256bb9875e12e85599327ed5/transformed/activity-1.7.2/res
+com.example.firebasestorage.app-appcompat-1.3.1-20 /home/emobilis/.gradle/caches/transforms-3/571205117e9f147e22397d30e3d35382/transformed/appcompat-1.3.1/res
+com.example.firebasestorage.app-lottie-4.2.0-21 /home/emobilis/.gradle/caches/transforms-3/5dd21050a32cde63be1508113a94ad31/transformed/lottie-4.2.0/res
+com.example.firebasestorage.app-activity-compose-1.7.2-22 /home/emobilis/.gradle/caches/transforms-3/63268d0f62c0439cae618926900f7a18/transformed/activity-compose-1.7.2/res
+com.example.firebasestorage.app-lifecycle-viewmodel-savedstate-2.6.1-23 /home/emobilis/.gradle/caches/transforms-3/6565330e4993ed4a89b1b780bd6401e9/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.firebasestorage.app-core-1.12.0-24 /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/res
+com.example.firebasestorage.app-animation-release-25 /home/emobilis/.gradle/caches/transforms-3/68b99ea2eaed4ed03a7e77c0c12a2587/transformed/animation-release/res
+com.example.firebasestorage.app-lifecycle-livedata-2.6.1-26 /home/emobilis/.gradle/caches/transforms-3/6944c50294781eff9144ee6aea4a0bdc/transformed/lifecycle-livedata-2.6.1/res
+com.example.firebasestorage.app-emoji2-1.4.0-27 /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/res
+com.example.firebasestorage.app-foundation-layout-release-28 /home/emobilis/.gradle/caches/transforms-3/7d481e7df1d25f1d8a0157cbcaf3313a/transformed/foundation-layout-release/res
+com.example.firebasestorage.app-material-ripple-release-29 /home/emobilis/.gradle/caches/transforms-3/7e94ca917c2817c6313bc9e99866b939/transformed/material-ripple-release/res
+com.example.firebasestorage.app-lifecycle-process-2.6.1-30 /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/res
+com.example.firebasestorage.app-ui-graphics-release-31 /home/emobilis/.gradle/caches/transforms-3/911e13e4741f3d51d72992cf988dc373/transformed/ui-graphics-release/res
+com.example.firebasestorage.app-customview-poolingcontainer-1.0.0-32 /home/emobilis/.gradle/caches/transforms-3/92759be0b5ad4c5e9e33b9c0232f0c31/transformed/customview-poolingcontainer-1.0.0/res
+com.example.firebasestorage.app-material3-1.0.0-33 /home/emobilis/.gradle/caches/transforms-3/9eedef6df6248820174089a4658f7704/transformed/material3-1.0.0/res
+com.example.firebasestorage.app-navigation-runtime-2.7.1-34 /home/emobilis/.gradle/caches/transforms-3/a6b3cb9f0a7b9eee1be84725a401faf3/transformed/navigation-runtime-2.7.1/res
+com.example.firebasestorage.app-ui-geometry-release-35 /home/emobilis/.gradle/caches/transforms-3/a73a8d43c17480684c8c26ea8f24127c/transformed/ui-geometry-release/res
+com.example.firebasestorage.app-startup-runtime-1.1.1-36 /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/res
+com.example.firebasestorage.app-camera-core-1.0.2-37 /home/emobilis/.gradle/caches/transforms-3/b398156d65bab7a0d2dd534a220a8e2f/transformed/camera-core-1.0.2/res
+com.example.firebasestorage.app-lifecycle-runtime-ktx-2.6.1-38 /home/emobilis/.gradle/caches/transforms-3/bb49ce9cbb85207ba8d83bd3140e1c14/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.example.firebasestorage.app-ui-text-release-39 /home/emobilis/.gradle/caches/transforms-3/c0ec7cd3e78c94060127a47090490ec4/transformed/ui-text-release/res
+com.example.firebasestorage.app-browser-1.4.0-40 /home/emobilis/.gradle/caches/transforms-3/c21374ea2e44187c3d69fcefb78e6d49/transformed/browser-1.4.0/res
+com.example.firebasestorage.app-foundation-release-41 /home/emobilis/.gradle/caches/transforms-3/c3149804b6735437434bbe0c29ae98b8/transformed/foundation-release/res
+com.example.firebasestorage.app-runtime-release-42 /home/emobilis/.gradle/caches/transforms-3/c64d200fff485b94571b1231ffd214c0/transformed/runtime-release/res
+com.example.firebasestorage.app-fragment-1.3.6-43 /home/emobilis/.gradle/caches/transforms-3/c7370c331205f2e9eed2f6317059ac61/transformed/fragment-1.3.6/res
+com.example.firebasestorage.app-savedstate-1.2.1-44 /home/emobilis/.gradle/caches/transforms-3/c879df68be4a3f3faf64f05b9e381537/transformed/savedstate-1.2.1/res
+com.example.firebasestorage.app-appcompat-resources-1.3.1-45 /home/emobilis/.gradle/caches/transforms-3/caf03956e32b996eafe95e6bd2a027b6/transformed/appcompat-resources-1.3.1/res
+com.example.firebasestorage.app-material-release-46 /home/emobilis/.gradle/caches/transforms-3/ced67226b1a377ae521bdc9fc924f9be/transformed/material-release/res
+com.example.firebasestorage.app-runtime-saveable-release-47 /home/emobilis/.gradle/caches/transforms-3/cfa88e2ba2a8f2ff67689d43f49992e0/transformed/runtime-saveable-release/res
+com.example.firebasestorage.app-navigation-runtime-ktx-2.7.1-48 /home/emobilis/.gradle/caches/transforms-3/da5b28ae8f11718599ddf6c2c8dd2ee1/transformed/navigation-runtime-ktx-2.7.1/res
+com.example.firebasestorage.app-activity-ktx-1.7.2-49 /home/emobilis/.gradle/caches/transforms-3/e231f498d4677d6c5a8220d5b38a6a4d/transformed/activity-ktx-1.7.2/res
+com.example.firebasestorage.app-lifecycle-viewmodel-2.6.1-50 /home/emobilis/.gradle/caches/transforms-3/ebb42729b3cad091a971b7893a391c9e/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.firebasestorage.app-navigation-compose-2.7.1-51 /home/emobilis/.gradle/caches/transforms-3/f48f66047fafd07a685d91fbee66e476/transformed/navigation-compose-2.7.1/res
+com.example.firebasestorage.app-navigation-common-ktx-2.7.1-52 /home/emobilis/.gradle/caches/transforms-3/f69330f93b7e51fc129718677c7e4a60/transformed/navigation-common-ktx-2.7.1/res
+com.example.firebasestorage.app-resValues-53 /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/build/generated/res/resValues/debug
+com.example.firebasestorage.app-packageDebugResources-54 /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.firebasestorage.app-packageDebugResources-55 /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.firebasestorage.app-merged_res-56 /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/build/intermediates/merged_res/debug
+com.example.firebasestorage.app-debug-57 /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/debug/res
+com.example.firebasestorage.app-main-58 /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/res

@@ -1,0 +1,845 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.airbnb.android:lottie-compose:4.2.0] /home/emobilis/.gradle/caches/transforms-3/1aa75a856e3d996eb7fc94c39fc63aad/transformed/lottie-compose-4.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/emobilis/.gradle/caches/transforms-3/9eedef6df6248820174089a4658f7704/transformed/material3-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.7.1] /home/emobilis/.gradle/caches/transforms-3/1310c7af4e71bcbd9efe3db6b3f8d3f2/transformed/navigation-common-2.7.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.1] /home/emobilis/.gradle/caches/transforms-3/a6b3cb9f0a7b9eee1be84725a401faf3/transformed/navigation-runtime-2.7.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.1] /home/emobilis/.gradle/caches/transforms-3/f69330f93b7e51fc129718677c7e4a60/transformed/navigation-common-ktx-2.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.1] /home/emobilis/.gradle/caches/transforms-3/da5b28ae8f11718599ddf6c2c8dd2ee1/transformed/navigation-runtime-ktx-2.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.1] /home/emobilis/.gradle/caches/transforms-3/f48f66047fafd07a685d91fbee66e476/transformed/navigation-compose-2.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.airbnb.android:lottie:4.2.0] /home/emobilis/.gradle/caches/transforms-3/5dd21050a32cde63be1508113a94ad31/transformed/lottie-4.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/emobilis/.gradle/caches/transforms-3/571205117e9f147e22397d30e3d35382/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/emobilis/.gradle/caches/transforms-3/776f48417357f755799087696c6e4ea1/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/emobilis/.gradle/caches/transforms-3/5a8949c1079375fd74ce82f763f6f14e/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.play:integrity:1.1.0] /home/emobilis/.gradle/caches/transforms-3/394d96e726f7f6a5be8b8de2e3623662/transformed/integrity-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/7e94ca917c2817c6313bc9e99866b939/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/45747d25a568f6d54bfe60721be92a24/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/ced67226b1a377ae521bdc9fc924f9be/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.0.2] /home/emobilis/.gradle/caches/transforms-3/b398156d65bab7a0d2dd534a220a8e2f/transformed/camera-core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/3185b5ab01154b6067ed7ebb9aa8f01c/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/68b99ea2eaed4ed03a7e77c0c12a2587/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/7d481e7df1d25f1d8a0157cbcaf3313a/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c3149804b6735437434bbe0c29ae98b8/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/32721612e7ba8d0a6cb77ef0fa25ff7f/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/a73a8d43c17480684c8c26ea8f24127c/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/44e802738be03bf7dfd869d50f1b94d7/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/911e13e4741f3d51d72992cf988dc373/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c0ec7cd3e78c94060127a47090490ec4/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/emobilis/.gradle/caches/transforms-3/6565330e4993ed4a89b1b780bd6401e9/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/emobilis/.gradle/caches/transforms-3/0f4185ec442cb321e04d88290593f083/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/emobilis/.gradle/caches/transforms-3/1533ffe76c3354a3802062bf89cee039/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/emobilis/.gradle/caches/transforms-3/49c099360210b96de2d40540d29dd909/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/emobilis/.gradle/caches/transforms-3/c879df68be4a3f3faf64f05b9e381537/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/emobilis/.gradle/caches/transforms-3/66dc0fdcf9a4fe8127192006f3ad7c43/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/emobilis/.gradle/caches/transforms-3/6944c50294781eff9144ee6aea4a0bdc/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/emobilis/.gradle/caches/transforms-3/ebb42729b3cad091a971b7893a391c9e/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /home/emobilis/.gradle/caches/transforms-3/41894fbc20740d682c362fbbadefd6f3/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/003549daa6ca2e464eef4ca0b115aeae/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/4e19e9cb9ee154ec659de22bff693290/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/cfa88e2ba2a8f2ff67689d43f49992e0/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c64d200fff485b94571b1231ffd214c0/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/emobilis/.gradle/caches/transforms-3/f952007f72c2fffaa7dfc91559a9d9f1/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/emobilis/.gradle/caches/transforms-3/a69b7904fcd16c8015d5f95e57d4155e/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /home/emobilis/.gradle/caches/transforms-3/63fc869eb63d2d0145e731f14ea6b4aa/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/emobilis/.gradle/caches/transforms-3/f59a8801ee22f3c88523f8ade1f0b770/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] /home/emobilis/.gradle/caches/transforms-3/3b841cc819535411c9fd2188295f5bfe/transformed/firebase-measurement-connector-18.0.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/emobilis/.gradle/caches/transforms-3/c7370c331205f2e9eed2f6317059ac61/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.2] /home/emobilis/.gradle/caches/transforms-3/54c80a60256bb9875e12e85599327ed5/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/emobilis/.gradle/caches/transforms-3/63268d0f62c0439cae618926900f7a18/transformed/activity-compose-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/emobilis/.gradle/caches/transforms-3/e231f498d4677d6c5a8220d5b38a6a4d/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/emobilis/.gradle/caches/transforms-3/92759be0b5ad4c5e9e33b9c0232f0c31/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/emobilis/.gradle/caches/transforms-3/1c73f0e62ea6aeeb0ed44aca0e40a60e/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.4.0] /home/emobilis/.gradle/caches/transforms-3/c21374ea2e44187c3d69fcefb78e6d49/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/emobilis/.gradle/caches/transforms-3/1507af32593a6af6339e4686deea5678/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/emobilis/.gradle/caches/transforms-3/caf03956e32b996eafe95e6bd2a027b6/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/emobilis/.gradle/caches/transforms-3/23159d90d772b9af6deecfcff5e837c7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emobilis/.gradle/caches/transforms-3/5b234b3c2fcd6cc9bbb91104ad62af90/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emobilis/.gradle/caches/transforms-3/2bd8d6b88a5b0c6bfdfc7d7c4b6700f2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emobilis/.gradle/caches/transforms-3/45af8f4dd0220e06ce3daf88ead8cf92/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/emobilis/.gradle/caches/transforms-3/3f5d6792d587707c36fc1898d98afc34/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/emobilis/.gradle/caches/transforms-3/52de6b646574d6193e92126ff7761cb3/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/emobilis/.gradle/caches/transforms-3/bb49ce9cbb85207ba8d83bd3140e1c14/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/emobilis/.gradle/caches/transforms-3/1368433267ca02b1b653d4b2f8a1ed54/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/emobilis/.gradle/caches/transforms-3/a5bdfe9eaf243aff8efcf27b8f2d3124/transformed/firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/emobilis/.gradle/caches/transforms-3/604ef7e61b76d855cefe78d5593cb89f/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emobilis/.gradle/caches/transforms-3/f188ab9499c91630e01da084e6fe6498/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-3/c73839aaf0495f790349868d89ce9b76/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/emobilis/.gradle/caches/transforms-3/1bb26bad28c0894a9b6537af331deb17/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emobilis/.gradle/caches/transforms-3/d32ffceabb9dde42661f67b169208fcd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/emobilis/.gradle/caches/transforms-3/932bc0dc95f08457d24c6209f32fe24c/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/emobilis/.gradle/caches/transforms-3/5df780a0d4a5f728142972f5813cefba/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emobilis/.gradle/caches/transforms-3/57e2dff667a05fa78bb5d2a67dfbce66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/emobilis/.gradle/caches/transforms-3/4cacb33677c6cf5143b7c86e4b18bead/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [io.grpc:grpc-android:1.52.1] /home/emobilis/.gradle/caches/transforms-3/5a82711601c428ae9ce0f06b1bef9036/transformed/grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/emobilis/.gradle/caches/transforms-3/6ccbb7504031d49efe6740477cb7bc47/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/emobilis/.gradle/caches/transforms-3/e5bc95ab06ee0b86bb6cc326b3457cac/transformed/rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] /home/emobilis/.gradle/caches/transforms-3/5a82711601c428ae9ce0f06b1bef9036/transformed/grpc-android-1.52.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] /home/emobilis/.gradle/caches/transforms-3/5a82711601c428ae9ce0f06b1bef9036/transformed/grpc-android-1.52.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:8:5-53:19
+MERGED from [com.airbnb.android:lottie:4.2.0] /home/emobilis/.gradle/caches/transforms-3/5dd21050a32cde63be1508113a94ad31/transformed/lottie-4.2.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:4.2.0] /home/emobilis/.gradle/caches/transforms-3/5dd21050a32cde63be1508113a94ad31/transformed/lottie-4.2.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/emobilis/.gradle/caches/transforms-3/776f48417357f755799087696c6e4ea1/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/emobilis/.gradle/caches/transforms-3/776f48417357f755799087696c6e4ea1/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/emobilis/.gradle/caches/transforms-3/394d96e726f7f6a5be8b8de2e3623662/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/emobilis/.gradle/caches/transforms-3/394d96e726f7f6a5be8b8de2e3623662/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/emobilis/.gradle/caches/transforms-3/f952007f72c2fffaa7dfc91559a9d9f1/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/emobilis/.gradle/caches/transforms-3/f952007f72c2fffaa7dfc91559a9d9f1/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/emobilis/.gradle/caches/transforms-3/f59a8801ee22f3c88523f8ade1f0b770/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/emobilis/.gradle/caches/transforms-3/f59a8801ee22f3c88523f8ade1f0b770/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] /home/emobilis/.gradle/caches/transforms-3/3b841cc819535411c9fd2188295f5bfe/transformed/firebase-measurement-connector-18.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] /home/emobilis/.gradle/caches/transforms-3/3b841cc819535411c9fd2188295f5bfe/transformed/firebase-measurement-connector-18.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-3/c73839aaf0495f790349868d89ce9b76/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-3/c73839aaf0495f790349868d89ce9b76/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:15:9-53
+	android:dataExtractionRules
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:10:9-65
+activity#com.example.firebasestorage.updateDetailsActivity
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:17:9-21:60
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:20:13-66
+	android:exported
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:19:13-37
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:18:13-50
+activity#com.example.firebasestorage.DetailsActivity
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:22:9-26:60
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:25:13-59
+	android:exported
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:24:13-37
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:26:13-57
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:23:13-44
+activity#com.example.firebasestorage.InsertActivity
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:27:9-31:60
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:30:13-58
+	android:exported
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:28:13-43
+activity#com.example.firebasestorage.SplashActivity
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:32:9-42:20
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:35:13-40
+	android:exported
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:33:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.example.firebasestorage.LocationActivity
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:43:9-47:60
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:46:13-60
+	android:exported
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:45:13-37
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:44:13-45
+activity#com.example.firebasestorage.MainActivity
+ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:48:9-52:60
+	android:label
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:51:13-45
+	android:exported
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:52:13-57
+	android:name
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml:49:13-41
+uses-sdk
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+MERGED from [com.airbnb.android:lottie-compose:4.2.0] /home/emobilis/.gradle/caches/transforms-3/1aa75a856e3d996eb7fc94c39fc63aad/transformed/lottie-compose-4.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie-compose:4.2.0] /home/emobilis/.gradle/caches/transforms-3/1aa75a856e3d996eb7fc94c39fc63aad/transformed/lottie-compose-4.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/emobilis/.gradle/caches/transforms-3/9eedef6df6248820174089a4658f7704/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/emobilis/.gradle/caches/transforms-3/9eedef6df6248820174089a4658f7704/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.1] /home/emobilis/.gradle/caches/transforms-3/1310c7af4e71bcbd9efe3db6b3f8d3f2/transformed/navigation-common-2.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.1] /home/emobilis/.gradle/caches/transforms-3/1310c7af4e71bcbd9efe3db6b3f8d3f2/transformed/navigation-common-2.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.1] /home/emobilis/.gradle/caches/transforms-3/a6b3cb9f0a7b9eee1be84725a401faf3/transformed/navigation-runtime-2.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.1] /home/emobilis/.gradle/caches/transforms-3/a6b3cb9f0a7b9eee1be84725a401faf3/transformed/navigation-runtime-2.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.1] /home/emobilis/.gradle/caches/transforms-3/f69330f93b7e51fc129718677c7e4a60/transformed/navigation-common-ktx-2.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.1] /home/emobilis/.gradle/caches/transforms-3/f69330f93b7e51fc129718677c7e4a60/transformed/navigation-common-ktx-2.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.1] /home/emobilis/.gradle/caches/transforms-3/da5b28ae8f11718599ddf6c2c8dd2ee1/transformed/navigation-runtime-ktx-2.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.1] /home/emobilis/.gradle/caches/transforms-3/da5b28ae8f11718599ddf6c2c8dd2ee1/transformed/navigation-runtime-ktx-2.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.1] /home/emobilis/.gradle/caches/transforms-3/f48f66047fafd07a685d91fbee66e476/transformed/navigation-compose-2.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.1] /home/emobilis/.gradle/caches/transforms-3/f48f66047fafd07a685d91fbee66e476/transformed/navigation-compose-2.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:4.2.0] /home/emobilis/.gradle/caches/transforms-3/5dd21050a32cde63be1508113a94ad31/transformed/lottie-4.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.2.0] /home/emobilis/.gradle/caches/transforms-3/5dd21050a32cde63be1508113a94ad31/transformed/lottie-4.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/emobilis/.gradle/caches/transforms-3/571205117e9f147e22397d30e3d35382/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/emobilis/.gradle/caches/transforms-3/571205117e9f147e22397d30e3d35382/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/emobilis/.gradle/caches/transforms-3/776f48417357f755799087696c6e4ea1/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/emobilis/.gradle/caches/transforms-3/776f48417357f755799087696c6e4ea1/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/emobilis/.gradle/caches/transforms-3/5a8949c1079375fd74ce82f763f6f14e/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/emobilis/.gradle/caches/transforms-3/5a8949c1079375fd74ce82f763f6f14e/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/emobilis/.gradle/caches/transforms-3/fedbd0eb29e95324af547af36034e6d1/transformed/recaptcha-18.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /home/emobilis/.gradle/caches/transforms-3/394d96e726f7f6a5be8b8de2e3623662/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /home/emobilis/.gradle/caches/transforms-3/394d96e726f7f6a5be8b8de2e3623662/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/7e94ca917c2817c6313bc9e99866b939/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/7e94ca917c2817c6313bc9e99866b939/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/45747d25a568f6d54bfe60721be92a24/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/45747d25a568f6d54bfe60721be92a24/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/ced67226b1a377ae521bdc9fc924f9be/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /home/emobilis/.gradle/caches/transforms-3/ced67226b1a377ae521bdc9fc924f9be/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.0.2] /home/emobilis/.gradle/caches/transforms-3/b398156d65bab7a0d2dd534a220a8e2f/transformed/camera-core-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.2] /home/emobilis/.gradle/caches/transforms-3/b398156d65bab7a0d2dd534a220a8e2f/transformed/camera-core-1.0.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/3185b5ab01154b6067ed7ebb9aa8f01c/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/3185b5ab01154b6067ed7ebb9aa8f01c/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/68b99ea2eaed4ed03a7e77c0c12a2587/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/68b99ea2eaed4ed03a7e77c0c12a2587/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/7d481e7df1d25f1d8a0157cbcaf3313a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/7d481e7df1d25f1d8a0157cbcaf3313a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c3149804b6735437434bbe0c29ae98b8/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c3149804b6735437434bbe0c29ae98b8/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/32721612e7ba8d0a6cb77ef0fa25ff7f/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/32721612e7ba8d0a6cb77ef0fa25ff7f/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/a73a8d43c17480684c8c26ea8f24127c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/a73a8d43c17480684c8c26ea8f24127c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/44e802738be03bf7dfd869d50f1b94d7/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/44e802738be03bf7dfd869d50f1b94d7/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/911e13e4741f3d51d72992cf988dc373/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/911e13e4741f3d51d72992cf988dc373/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c0ec7cd3e78c94060127a47090490ec4/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c0ec7cd3e78c94060127a47090490ec4/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/emobilis/.gradle/caches/transforms-3/6565330e4993ed4a89b1b780bd6401e9/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/emobilis/.gradle/caches/transforms-3/6565330e4993ed4a89b1b780bd6401e9/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/emobilis/.gradle/caches/transforms-3/0f4185ec442cb321e04d88290593f083/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/emobilis/.gradle/caches/transforms-3/0f4185ec442cb321e04d88290593f083/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/emobilis/.gradle/caches/transforms-3/1533ffe76c3354a3802062bf89cee039/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/emobilis/.gradle/caches/transforms-3/1533ffe76c3354a3802062bf89cee039/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/emobilis/.gradle/caches/transforms-3/49c099360210b96de2d40540d29dd909/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/emobilis/.gradle/caches/transforms-3/49c099360210b96de2d40540d29dd909/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/emobilis/.gradle/caches/transforms-3/c879df68be4a3f3faf64f05b9e381537/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/emobilis/.gradle/caches/transforms-3/c879df68be4a3f3faf64f05b9e381537/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/emobilis/.gradle/caches/transforms-3/66dc0fdcf9a4fe8127192006f3ad7c43/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/emobilis/.gradle/caches/transforms-3/66dc0fdcf9a4fe8127192006f3ad7c43/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/emobilis/.gradle/caches/transforms-3/6944c50294781eff9144ee6aea4a0bdc/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/emobilis/.gradle/caches/transforms-3/6944c50294781eff9144ee6aea4a0bdc/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/emobilis/.gradle/caches/transforms-3/ebb42729b3cad091a971b7893a391c9e/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/emobilis/.gradle/caches/transforms-3/ebb42729b3cad091a971b7893a391c9e/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /home/emobilis/.gradle/caches/transforms-3/41894fbc20740d682c362fbbadefd6f3/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /home/emobilis/.gradle/caches/transforms-3/41894fbc20740d682c362fbbadefd6f3/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/003549daa6ca2e464eef4ca0b115aeae/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/003549daa6ca2e464eef4ca0b115aeae/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/4e19e9cb9ee154ec659de22bff693290/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/4e19e9cb9ee154ec659de22bff693290/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/cfa88e2ba2a8f2ff67689d43f49992e0/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/cfa88e2ba2a8f2ff67689d43f49992e0/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c64d200fff485b94571b1231ffd214c0/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] /home/emobilis/.gradle/caches/transforms-3/c64d200fff485b94571b1231ffd214c0/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/emobilis/.gradle/caches/transforms-3/f952007f72c2fffaa7dfc91559a9d9f1/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/emobilis/.gradle/caches/transforms-3/f952007f72c2fffaa7dfc91559a9d9f1/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/emobilis/.gradle/caches/transforms-3/a69b7904fcd16c8015d5f95e57d4155e/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/emobilis/.gradle/caches/transforms-3/a69b7904fcd16c8015d5f95e57d4155e/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /home/emobilis/.gradle/caches/transforms-3/63fc869eb63d2d0145e731f14ea6b4aa/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /home/emobilis/.gradle/caches/transforms-3/63fc869eb63d2d0145e731f14ea6b4aa/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/emobilis/.gradle/caches/transforms-3/f59a8801ee22f3c88523f8ade1f0b770/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/emobilis/.gradle/caches/transforms-3/f59a8801ee22f3c88523f8ade1f0b770/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] /home/emobilis/.gradle/caches/transforms-3/3b841cc819535411c9fd2188295f5bfe/transformed/firebase-measurement-connector-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] /home/emobilis/.gradle/caches/transforms-3/3b841cc819535411c9fd2188295f5bfe/transformed/firebase-measurement-connector-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /home/emobilis/.gradle/caches/transforms-3/c7370c331205f2e9eed2f6317059ac61/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/emobilis/.gradle/caches/transforms-3/c7370c331205f2e9eed2f6317059ac61/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.2] /home/emobilis/.gradle/caches/transforms-3/54c80a60256bb9875e12e85599327ed5/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /home/emobilis/.gradle/caches/transforms-3/54c80a60256bb9875e12e85599327ed5/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/emobilis/.gradle/caches/transforms-3/63268d0f62c0439cae618926900f7a18/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/emobilis/.gradle/caches/transforms-3/63268d0f62c0439cae618926900f7a18/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/emobilis/.gradle/caches/transforms-3/e231f498d4677d6c5a8220d5b38a6a4d/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/emobilis/.gradle/caches/transforms-3/e231f498d4677d6c5a8220d5b38a6a4d/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/emobilis/.gradle/caches/transforms-3/92759be0b5ad4c5e9e33b9c0232f0c31/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/emobilis/.gradle/caches/transforms-3/92759be0b5ad4c5e9e33b9c0232f0c31/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /home/emobilis/.gradle/caches/transforms-3/1c73f0e62ea6aeeb0ed44aca0e40a60e/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/emobilis/.gradle/caches/transforms-3/1c73f0e62ea6aeeb0ed44aca0e40a60e/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.4.0] /home/emobilis/.gradle/caches/transforms-3/c21374ea2e44187c3d69fcefb78e6d49/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/emobilis/.gradle/caches/transforms-3/c21374ea2e44187c3d69fcefb78e6d49/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/emobilis/.gradle/caches/transforms-3/1507af32593a6af6339e4686deea5678/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/emobilis/.gradle/caches/transforms-3/1507af32593a6af6339e4686deea5678/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/emobilis/.gradle/caches/transforms-3/caf03956e32b996eafe95e6bd2a027b6/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/emobilis/.gradle/caches/transforms-3/caf03956e32b996eafe95e6bd2a027b6/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/emobilis/.gradle/caches/transforms-3/23159d90d772b9af6deecfcff5e837c7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/emobilis/.gradle/caches/transforms-3/23159d90d772b9af6deecfcff5e837c7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emobilis/.gradle/caches/transforms-3/5b234b3c2fcd6cc9bbb91104ad62af90/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emobilis/.gradle/caches/transforms-3/5b234b3c2fcd6cc9bbb91104ad62af90/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emobilis/.gradle/caches/transforms-3/2bd8d6b88a5b0c6bfdfc7d7c4b6700f2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emobilis/.gradle/caches/transforms-3/2bd8d6b88a5b0c6bfdfc7d7c4b6700f2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emobilis/.gradle/caches/transforms-3/45af8f4dd0220e06ce3daf88ead8cf92/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emobilis/.gradle/caches/transforms-3/45af8f4dd0220e06ce3daf88ead8cf92/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/emobilis/.gradle/caches/transforms-3/3f5d6792d587707c36fc1898d98afc34/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/emobilis/.gradle/caches/transforms-3/3f5d6792d587707c36fc1898d98afc34/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/emobilis/.gradle/caches/transforms-3/52de6b646574d6193e92126ff7761cb3/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/emobilis/.gradle/caches/transforms-3/52de6b646574d6193e92126ff7761cb3/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/emobilis/.gradle/caches/transforms-3/bb49ce9cbb85207ba8d83bd3140e1c14/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/emobilis/.gradle/caches/transforms-3/bb49ce9cbb85207ba8d83bd3140e1c14/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/emobilis/.gradle/caches/transforms-3/1368433267ca02b1b653d4b2f8a1ed54/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/emobilis/.gradle/caches/transforms-3/1368433267ca02b1b653d4b2f8a1ed54/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/emobilis/.gradle/caches/transforms-3/a5bdfe9eaf243aff8efcf27b8f2d3124/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/emobilis/.gradle/caches/transforms-3/a5bdfe9eaf243aff8efcf27b8f2d3124/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/emobilis/.gradle/caches/transforms-3/604ef7e61b76d855cefe78d5593cb89f/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/emobilis/.gradle/caches/transforms-3/604ef7e61b76d855cefe78d5593cb89f/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emobilis/.gradle/caches/transforms-3/f188ab9499c91630e01da084e6fe6498/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emobilis/.gradle/caches/transforms-3/f188ab9499c91630e01da084e6fe6498/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-3/c73839aaf0495f790349868d89ce9b76/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-3/c73839aaf0495f790349868d89ce9b76/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/emobilis/.gradle/caches/transforms-3/1bb26bad28c0894a9b6537af331deb17/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/emobilis/.gradle/caches/transforms-3/1bb26bad28c0894a9b6537af331deb17/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emobilis/.gradle/caches/transforms-3/d32ffceabb9dde42661f67b169208fcd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emobilis/.gradle/caches/transforms-3/d32ffceabb9dde42661f67b169208fcd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/emobilis/.gradle/caches/transforms-3/932bc0dc95f08457d24c6209f32fe24c/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/emobilis/.gradle/caches/transforms-3/932bc0dc95f08457d24c6209f32fe24c/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/emobilis/.gradle/caches/transforms-3/5df780a0d4a5f728142972f5813cefba/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/emobilis/.gradle/caches/transforms-3/5df780a0d4a5f728142972f5813cefba/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emobilis/.gradle/caches/transforms-3/57e2dff667a05fa78bb5d2a67dfbce66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emobilis/.gradle/caches/transforms-3/57e2dff667a05fa78bb5d2a67dfbce66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/emobilis/.gradle/caches/transforms-3/4cacb33677c6cf5143b7c86e4b18bead/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/emobilis/.gradle/caches/transforms-3/4cacb33677c6cf5143b7c86e4b18bead/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [io.grpc:grpc-android:1.52.1] /home/emobilis/.gradle/caches/transforms-3/5a82711601c428ae9ce0f06b1bef9036/transformed/grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] /home/emobilis/.gradle/caches/transforms-3/5a82711601c428ae9ce0f06b1bef9036/transformed/grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/emobilis/.gradle/caches/transforms-3/6ccbb7504031d49efe6740477cb7bc47/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/emobilis/.gradle/caches/transforms-3/6ccbb7504031d49efe6740477cb7bc47/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/emobilis/.gradle/caches/transforms-3/e5bc95ab06ee0b86bb6cc326b3457cac/transformed/rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/emobilis/.gradle/caches/transforms-3/e5bc95ab06ee0b86bb6cc326b3457cac/transformed/rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		ADDED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/BottleRover (copy)/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:11:9-15:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:11:9-15:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/emobilis/.gradle/caches/transforms-3/316ca3e11a895ee561cd6efa3d7ea759/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:12:17-116
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/emobilis/.gradle/caches/transforms-3/52bd2428588391f0fa077553c9668c18/transformed/firebase-auth-22.1.1/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] /home/emobilis/.gradle/caches/transforms-3/29aaf5bf04d50cd698b68b22437e8297/transformed/firebase-firestore-ktx-24.7.1/AndroidManifest.xml:13:17-126
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/emobilis/.gradle/caches/transforms-3/d55f683fec2dfd6f21144f00c5531284/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:15:17-124
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/b109785f3e3f905b5c3bbe249a28a7bf/transformed/firebase-storage-ktx-20.2.1/AndroidManifest.xml:15:17-122
+meta-data#com.google.firebase.components:com.google.firebase.inappmessaging.ktx.FirebaseInAppMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging-ktx:20.3.3] /home/emobilis/.gradle/caches/transforms-3/3f83155c9c16713407bcad9e53e564b8/transformed/firebase-inappmessaging-ktx-20.3.3/AndroidManifest.xml:13:17-136
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c210479e49d730c5508b193b6c12f8d5/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:15:17-113
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.2.2] /home/emobilis/.gradle/caches/transforms-3/8d1092319e81bc3572adfbcd17a13883/transformed/firebase-database-20.2.2/AndroidManifest.xml:32:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] /home/emobilis/.gradle/caches/transforms-3/0b8976269663290a0398efd52cb46dde/transformed/firebase-storage-20.2.1/AndroidManifest.xml:33:17-107
+meta-data#com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar
+ADDED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging:20.3.3] /home/emobilis/.gradle/caches/transforms-3/c28d563fcb20b978dee27c5667232b31/transformed/firebase-inappmessaging-20.3.3/AndroidManifest.xml:15:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.7.1] /home/emobilis/.gradle/caches/transforms-3/7a3a00355cedcb9d81a88e8216d2f454/transformed/firebase-firestore-24.7.1/AndroidManifest.xml:18:17-111
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] /home/emobilis/.gradle/caches/transforms-3/0a290d6c4cb07227c21a72ad14e68b5b/transformed/firebase-installations-17.1.4/AndroidManifest.xml:16:17-127
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:21.1.1] /home/emobilis/.gradle/caches/transforms-3/ea9f8d2b95421bdf57c944729ba8f2ac/transformed/firebase-abt-21.1.1/AndroidManifest.xml:13:17-109
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/transforms-3/620451f93e3b75d9ebc07f9e13d7a1a7/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/5034918aafd55d9bab7b9dbbf560816b/transformed/firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-3/b34928b2a4d9785ffbe2c86734bded42/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/emobilis/.gradle/caches/transforms-3/6afcabea973194431ad42ef9770b7497/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/emobilis/.gradle/caches/transforms-3/826d1aacb96a70f776c4e54d40a03855/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/25d422eb074365eea071ef842f4ece62/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4e402f674ef47596a040c740bdd4d5d4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.firebasestorage.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.firebasestorage.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/transforms-3/661e4d70eec504554b8ae94b4a82d5e7/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/emobilis/.gradle/caches/transforms-3/0887325945263267722eaf65921bd94c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/transforms-3/044f6c6a1bbb3a8f2fbf71f4585367c5/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/transforms-3/69bc96bb332a8e98d18c602c5f1600af/transformed/transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
